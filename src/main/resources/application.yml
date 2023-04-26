@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: sourceInterrogator
+netty:
+  default:
+    allocator:
+      max-order: 3
